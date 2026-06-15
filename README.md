@@ -8,14 +8,15 @@
 
 - 💬 Ask me about **Game Logic & Design, Creative Concepteptual Designing, or, if non-tech related: my Fantasy Sci-Fi Novel in the works!**
 
-  Fun fact: Your brain can store up to 2.5 million+ petabytes! (or converted to gigabytes, about 2.5 million!)
+      Fun fact: Your brain can store up to 2.5 million+ petabytes (PB)! Or converted to Gigabytes, about 2.5 million Gigabytes (GB).
 
 <h3 align="left">Connect with Wesley:</h3>
-    <h4 align="left"> My Personal Email: santa-kudos-cake@duck.com</h4>
+    <h4 align="center"> My Personal Email: santa-kudos-cake@duck.com</h4>
      
 <p align="left">
 <a href="https://www.hackerrank.com/bofacrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bofacrown" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kingwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingwe" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/wesley-charlton-476478320/" target="blank"><img align="center" src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:8618f0ba-7d60-4fd5-9fd0-bbd4809031c9/original/as/brandg-business-in-logo-dsk-v03-png-original.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
