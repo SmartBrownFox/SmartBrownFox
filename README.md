@@ -1,12 +1,9 @@
-# Wesley Charlton's Launch Pad
-"Programers build systems that think. Programming -- is to write stories that matter."
+# Welcome Launch Pad
+"Programers build systems that think. Programming is to write stories that matter."
 
-Hello, my name is **Wesley Charlton** and I am a current 3rd-year Computer Science Major; Neuroscience minor, at Bowling Green State University (BGSU).
+Hello, my name is **Wesley Charlton**. I am a current 3rd-year Computer Science Major; Neuroscience minor, at Bowling Green State University (BGSU).
 
-Fun fact: Did you know that your brain can store up to 2.5 million+ petabytes (PB)? Converted to Gigabytes, about 2.5 million Gigabytes (GB)!
-
-## My Specialities
-**Game Design**, **Software Programming**, and **Computational Neuroscience**
+## My Specialities **Game Design**, **Software Programming** , and **Computational Neuroscience**
 
 I love to say that I have a large capacity for learning, which is backed by by many academic awards and achievements :)
     
@@ -14,7 +11,7 @@ I love to say that I have a large capacity for learning, which is backed by by m
 
 - 👨‍💻 All of my projects are available here on my GitHub, or my portfolio (coming soon).
 
-- 💬 Ask me about **Game Logic & Design**, **Code Debugging**, or, if you just want to chat about something **non-tech related:** ask me about my Fantasy Sci-Fi Novel in the works!
+- 💬 Ask me about **Concept Design**, **Code Debugging**, or if you would rather talk about something **non-tech related:** ask about my Fantasy Sci-Fi Novel in the works!
 
 <h3 align="left">Connect with Wesley:</h3>
     <h4 align="left"> My Personal Email: santa-kudos-cake@duck.com</h4>
