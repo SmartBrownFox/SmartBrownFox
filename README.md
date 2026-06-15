@@ -1,11 +1,15 @@
-# Welcome Launch Pad
-"Programers build systems that think. Programming is to write stories that matter."
+# Wesley's Launch Pad
+> "Programers create stories that think. Programming is to write characters that matter." - Wesley Charlton, 2026.
 
-Hello, my name is **Wesley Charlton**. I am a current 3rd-year Computer Science Major; Neuroscience minor, at Bowling Green State University (BGSU).
+Hello, my name is **Wesley Charlton**. I am a current 3rd-year Computer Science Major; Neuroscience Minor, at Bowling Green State University (BGSU).
 
-## My Specialities **Game Design**, **Software Programming** , and **Computational Neuroscience**
 
-I love to say that I have a large capacity for learning, which is backed by by many academic awards and achievements :)
+
+## My Specialities and Learning Output
+
+**Game Design**, **Software Programming** , and **Computational Neuroscience**.
+
+My specialties, coupled with my capacity for learning *(backed by by many academic awards and achievements).* Viewing mistakes as learning & growth opportunities is how I've come thus far.
     
 - 🌱 I’m currently learning about **Brain Computer Interfaces (BCIs)** and **Python Integration**.
 
