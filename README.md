@@ -8,10 +8,11 @@
 
 - 💬 Ask me about **Game Logic & Design, Creative Concepteptual Designing, or, if non-tech related: my Fantasy Sci-Fi Novel in the works!**
 
-      Fun fact: *Your brain can store up to 2.5 million+ petabytes! (or converted to gigabytes, about 2.5 million!)*
+  Fun fact: Your brain can store up to 2.5 million+ petabytes! (or converted to gigabytes, about 2.5 million!)
 
 <h3 align="left">Connect with Wesley:</h3>
-     My Personal Email: santa-kudos-cake@duck.com
+    <h4 align="left"> My Personal Email: santa-kudos-cake@duck.com</h4>
+     
 <p align="left">
 <a href="https://www.hackerrank.com/bofacrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bofacrown" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kingwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingwe" height="30" width="40" /></a>
