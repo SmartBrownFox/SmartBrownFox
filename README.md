@@ -1,14 +1,17 @@
-## My name is Wesley Charlton, This is Me
+## Welcome to Wesley's Launch Pad
 "My programming story is to build systems that think. And to write stories that matter."
-    - 🌱 I’m currently learning **Brain Computer Interfaces (BCIs)**
+    
+    
+- 🌱 I’m currently learning **Brain Computer Interfaces (BCIs)**
 
 - 👨‍💻 All of my projects are available here on my GitHub, or my portfolio (coming soon)
 
-- 💬 Ask me about **Game Logic, Creative Concepteptual Designing, or, non-tech related: my Fantasy Sci-Fi Novel in the work!**
+- 💬 Ask me about **Game Logic & Design, Creative Concepteptual Designing, or, if non-tech related: my Fantasy Sci-Fi Novel in the works!**
 
-      Fun fact: **I'm the Queen...**
+      Fun fact: *Your brain can store up to 2.5 million+ petabytes! (or converted to gigabytes, about 2.5 million!)*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Wesley:</h3>
+     My Personal Email: santa-kudos-cake@duck.com
 <p align="left">
 <a href="https://www.hackerrank.com/bofacrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bofacrown" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kingwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kingwe" height="30" width="40" /></a>
@@ -27,4 +30,4 @@
 
 ---
 
-> *"Always stay curious. If it ain't broke, break it to see how it works."*
+> *"Remember to always stay curious. If it ain't broke yet, break it to see how it works."*
