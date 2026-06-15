@@ -1,14 +1,12 @@
-## My name is Wesley Charlton
-    My programming story is to build systems that think. And to write stories that matter."
+## My name is Wesley Charlton, This is Me
+"My programming story is to build systems that think. And to write stories that matter."
     - 🌱 I’m currently learning **Brain Computer Interfaces (BCIs)**
 
-- 👨‍💻 All of my projects are available at [here, or my Roblox account](here, or my Roblox account)
+- 👨‍💻 All of my projects are available here on my GitHub, or my portfolio (coming soon)
 
-- 💬 Ask me about **C++ Polymorphism Concepts, My Game Development Personal Story, or my Fantasy Sci-Fi Novel in the works :3**
+- 💬 Ask me about **Game Logic, Creative Concepteptual Designing, or, non-tech related: my Fantasy Sci-Fi Novel in the work!**
 
-- 📫 How to reach me **santa-kudos-cake@duck.com**
-
-- ⚡ Fun fact **I know I'm on ur mind (because ur on my profile).**
+      Fun fact: **I'm the Queen...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +27,4 @@
 
 ---
 
-> *"Stay curious. If it ain't broke, break it to see how it works."*
+> *"Always stay curious. If it ain't broke, break it to see how it works."*
