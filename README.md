@@ -5,7 +5,7 @@ Hello, my name is **Wesley Charlton**. I am a current 3rd-year Computer Science 
 
 
 
-## My Specialities and Learning Output
+## My Specialities and Learning Outcome(s)
 
 **Game Design**, **Software Programming** , and **Computational Neuroscience**.
 
