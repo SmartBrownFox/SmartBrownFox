@@ -7,7 +7,7 @@ Hello, my name is **Wesley Charlton**. I am a current 3rd-year Computer Science 
 
 ## My Specialities and Learning Outcome(s)
 
-**Game Design**, **Software Engineering** , and **Systems Design**.
+**Game Design**, **Software Engineering**, and **Systems Design**.
 
 My specialties, coupled with my capacity for learning *(backed by by many academic awards and achievements).* Viewing mistakes as learning & growth opportunities is how I've come thus far.
     
