@@ -1,5 +1,5 @@
 # Wesley's Launch Pad
-> "Programers create stories that think. Programming is to write characters that matter." - Wesley Charlton, 2026.
+> "Programming is to write characters that matter. Programers create stories that think." - Wesley Charlton, 2026.
 
 Hello, my name is **Wesley Charlton**. I am a current 3rd-year Computer Science Major; Neuroscience Minor, at Bowling Green State University (BGSU).
 
